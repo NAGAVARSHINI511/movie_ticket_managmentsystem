@@ -29,6 +29,8 @@ void theater(){}
 void paymen(){}
 void ticket(){}
 
+   
+
 
 int main(){
 
